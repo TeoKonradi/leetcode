@@ -1,0 +1,17 @@
+/in-web-console/node-modules
+
+/in-web-console/.pnp
+/in-web-console.pnp.js
+
+/in-web-console/coverage
+/in-web-console/# production
+/in-web-console/build
+/in-web-console/# misc
+/in-web-console/.DS_Store
+/in-web-console/.env.local
+/in-web-console/.env.development.local
+/in-web-console/.env.test.local
+/in-web-console/.env.production.local
+/in-web-console/npm-debug.log*
+/in-web-console/yarn-debug.log*
+/in-web-console/yarn-error.log*
