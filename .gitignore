@@ -15,3 +15,5 @@ in-web-console/.env.production.local
 in-web-console/npm-debug.log*
 in-web-console/yarn-debug.log*
 in-web-console/yarn-error.log*
+
+*.js
